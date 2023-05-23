@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is B653-7A10
+
+ Directory of C:\Users\aravi\OneDrive\Desktop\git - tuts
+
+23-05-2023  17:18    <DIR>          .
+23-05-2023  14:18    <DIR>          ..
+23-05-2023  17:18                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  23,980,306,432 bytes free
